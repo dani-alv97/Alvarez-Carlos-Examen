@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pageflow:Pageflow xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:pageflow="http://www.sybase.com/suade/pageflow" id="pf161059639234019" configfile="/ExamenFinal/WebContent/WEB-INF/faces-config.xml">
+  <nodes xsi:type="pageflow:PFPage" name="menupricp.xhtml" x="122" y="635" id="pf161060472959045" referenceLink="//@navigationRule.12/@navigationCase.1/@toViewId|" path="/menupricp.xhtml"/>
+  <nodes xsi:type="pageflow:PFPage" name="InformeGeneral.xhtml" x="122" y="1862" id="pf161060572964673" referenceLink="//@navigationRule.10/@navigationCase.0/@toViewId|" path="/Administrador/InformeGeneral.xhtml"/>
+  <nodes xsi:type="pageflow:PFPage" name="GestionarBodegas.xhtml" x="122" y="2247" id="pf161060572964676" referenceLink="//@navigationRule.12/@fromViewId|" path="/Administrador/GestionarBodegas.xhtml"/>
+</pageflow:Pageflow>
